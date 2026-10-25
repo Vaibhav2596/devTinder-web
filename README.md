@@ -6,3 +6,16 @@
 - Install Daisy UI
 - Add NavBar Component to App.jsx
 - Create a NavBar.jsx separate Component file
+- Install react router dom
+- Create BrowserRouter > Routes > Route > /Body > RouteChildren
+- Create an Outlet in your Body Component
+- Create a footer
+- Create a Login Page
+
+Component Design
+Body
+    Navbar
+    Route = / => Feed
+    Route = /login => Login
+    Route = /connections => Connections
+    Route = /profile => Profile
